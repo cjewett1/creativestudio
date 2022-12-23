@@ -16,7 +16,7 @@ Its a great looking website that and I am happy with how it turned out. I really
 
 While the site is not technically live, it is featured on my personal website under the Projects section.
 
-The link to my site is [Here.](www.clinton-gorda.com)
+The link to my site is [Here.](https://www.clinton-gorda.com)
 
 Thank you for stopping by and checking it out! 
 
